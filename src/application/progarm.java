@@ -11,6 +11,7 @@ public class progarm {
 		
 		Departament obj = new Departament(1, "Books");
 		System.out.println(obj);
+		System.out.println("tomara");
 
 	}
 
